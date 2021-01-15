@@ -7,11 +7,11 @@ tags: [documentation,sample]
 image: lmb.jpeg
 ---
 <style>
-p {
- text-align:center
-}
+  p {
+   text-align:center
+ }
 
-img {
+ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -35,10 +35,13 @@ blockquote {
 </style>
 
 ## Public engagements
-
-Interview with Prof Menna Clatworthy, University of Cambridge, on [how Antibodies in the gut might help the brain](https://www.thenakedscientists.com/articles/interviews/cells-protect-brain) 10 November 2020.
-<a href="https://www.thenakedscientists.com/articles/interviews/cells-protect-brain"><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/Screenshot-2021-01-14-at-23.10.04-300x269.png"></a>
-
+<table border="0" cellpadding="0" cellspacing="0"> 
+  <tr>
+    <td><a href="https://www.thenakedscientists.com/articles/interviews/cells-protect-brain"><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/Screenshot-2021-01-14-at-23.10.04-300x269.png"></a>
+    </td>
+    <td> Interview with Prof Menna Clatworthy, University of Cambridge, on how Antibodies in the gut might help the brain, 10 November 2020. </td>
+  </tr> 
+</table>
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/L6s6hBb10rI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
