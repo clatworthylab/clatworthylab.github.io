@@ -37,7 +37,7 @@ blockquote {
 ## Public engagements
 
 Interview with Prof Menna Clatworthy, University of Cambridge, on [how Antibodies in the gut might help the brain](https://www.thenakedscientists.com/articles/interviews/cells-protect-brain) 10 November 2020.
-<img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/Screenshot-2021-01-14-at-23.10.04-300x269.png">
+<a href="https://www.thenakedscientists.com/articles/interviews/cells-protect-brain"><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/Screenshot-2021-01-14-at-23.10.04-300x269.png"></a>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L6s6hBb10rI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
