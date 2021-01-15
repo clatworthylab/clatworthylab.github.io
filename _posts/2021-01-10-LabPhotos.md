@@ -21,7 +21,7 @@ image: nature-1.jpg
 
 	table {
 		border-collapse: collapse; 
-		width: 150%;
+		width: 100%;
 		border: 0px;
 		margin-right: 300px;
 	}	
@@ -36,11 +36,13 @@ image: nature-1.jpg
 <table border="0" cellpadding="0" cellspacing="0"> 
 	<tr>
 		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/IMG_3555-300x225.jpeg"></td>
-		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/IMG_3545-300x225.jpg"></td>
-		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/IMG_3552-300x300.jpeg"></td>
+		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/IMG_3545-300x225.jpg"></td>		
 	</tr>
 	<tr>
+		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/IMG_3552-300x300.jpeg"></td>
 		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/IMG_3560-300x225.jpeg"></td>
+	</tr>
+	<tr>
 		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/beer-festival-300x225.jpg"></td>
 		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/gemma-viva-300x225.jpg"></td>
 	</tr>
