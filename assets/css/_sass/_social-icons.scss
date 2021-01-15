@@ -1,10 +1,13 @@
 $icon-transition-time: 1.0s;
 $envelope-color: #f39c12;
 $dna-color: #f39c12;
-$syringe-color: #f39c12;
+$database-color: #f39c12;
+$heart-color: #e15759;
+$syringe-color: #e15759;
+$university-color: #1b3e74;
 $twitter-color: #00aced;
 $instagram-color: #375989;
-$github-color: #343434;
+$github-color: #3c974b;
 $linkedin-color: #0073a4;
 $facebook-color: #3d5b99;
 $google-color: #e64a41;
@@ -87,4 +90,14 @@ $rss-color: #ff6600;
 .fa-syringe {
   padding: 5px;
   @include social-media-icon($syringe-color, $icon-transition-time);
+}
+
+.fa-database {
+  padding: 5px;
+  @include social-media-icon($database-color, $icon-transition-time);
+}
+
+.fa-heart {
+  padding: 5px;
+  @include social-media-icon($heart-color, $icon-transition-time);
 }
