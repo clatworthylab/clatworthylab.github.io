@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Group', folder: 'documentation', file: 'Professor Clatworthy's Group.html'}
+- {name: 'Group', folder: '_post', file: '2021-01-15-landingpage.md'}
 - {name: 'Research', folder: 'pages', file: 'facts.html'}
 - {name: 'Publications', folder: 'pages', file: 'resources.html'}
 - {name: 'Public engagement', folder: 'pages', file: 'sample-posts.html'}
