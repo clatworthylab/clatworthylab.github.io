@@ -1,5 +1,7 @@
 $icon-transition-time: 1.0s;
 $envelope-color: #f39c12;
+$dna-color: #f39c12;
+$syringe-color: #f39c12;
 $twitter-color: #00aced;
 $instagram-color: #375989;
 $github-color: #343434;
@@ -75,4 +77,14 @@ $rss-color: #ff6600;
 .fa-rss-square {
   padding: 5px;
   @include social-media-icon($rss-color, $icon-transition-time);
+}
+
+.fa-dna {
+  padding: 5px;
+  @include social-media-icon($dna-color, $icon-transition-time);
+}
+
+.fa-syringe {
+  padding: 5px;
+  @include social-media-icon($syringe-color, $icon-transition-time);
 }
