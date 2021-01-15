@@ -52,4 +52,16 @@ image: nature-1.jpg
 	</tr>	
 </table>
 
+## Miscellaneous Illustrations and Images
+<table border="0" cellpadding="0" cellspacing="0"> 
+	<tr>
+		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/dandelion.jpg" width="300"></td>
+		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/Spleen_NR-1.jpg" width="300"></td>		
+	</tr>
+	<tr>
+		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/Kidney-2.jpg" width="300"></td>
+	</tr>	
+</table>
+
+
 <a class="twitter-timeline" href="https://twitter.com/ClatworthyLab?ref_src=twsrc%5Etfw">Tweets by ClatworthyLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
