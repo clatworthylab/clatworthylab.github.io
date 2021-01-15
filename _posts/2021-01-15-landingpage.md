@@ -8,6 +8,8 @@ image: clatworthy_image4_883x431.jpg
 ---
 
 ## Research
+<img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/Picture-1.png" alt = 'Tissue Immunity Laboratory'>    <img src="http://www.med.cam.ac.uk/clatworthy/files/2013/08/CLATWORTHY-e1423145667300-256x300.jpg" alt = 'Professor Menna Clatworthy'>
+
 The Clatworthy lab is focused on human tissue immunity and houses the **Cambridge Tissue Immunity Laboratory (C-TIL)**.
 
 The study of human immunity has historically focused on investigating circulating cells but there is an increasing appreciation that every organ houses a range of immune cells that are adapted to tissue-specific environmental cues. **C-TIL aims to use single cell genomics, advanced biological imaging and pre-clinical models to deliver critical new insights into how immune responses are generated within organs, both in homeostasis and disease**.
