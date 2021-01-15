@@ -36,10 +36,8 @@ blockquote {
 
 ## Public engagements
 
-(https://www.thenakedscientists.com/articles/interviews/cells-protect-brain)
-
-
-<img typeof="foaf:Image" class="img-responsive" src="https://www.thenakedscientists.com/sites/default/files/styles/featured_image/public/media/media/x53e1d7444f5ab108f5d08460962f307f133ad6e54e507441772d7ad3964dc0_960.png,qitok=nuzFoE1S.pagespeed.ic.pGS7RbC-eF.webp" width="600" height="400" alt="The human brain." title="The human brain." data-pagespeed-url-hash="2874303808" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+Interview with Prof Menna Clatworthy, University of Cambridge, on [how Antibodies in the gut might help the brain](https://www.thenakedscientists.com/articles/interviews/cells-protect-brain) 10 November 2020.
+<img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/Screenshot-2021-01-14-at-23.10.04-300x269.png">
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L6s6hBb10rI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
