@@ -80,5 +80,3 @@ blockquote {
 <img src="https://www.med.cam.ac.uk/clatworthy/files/2015/04/Slide2.png">
 <img src="https://www.med.cam.ac.uk/clatworthy/files/2015/04/Slide3.png">
 <img src="https://www.med.cam.ac.uk/clatworthy/files/2015/04/Untitled.jpg">
-
-<a class="twitter-timeline" href="https://twitter.com/ClatworthyLab?ref_src=twsrc%5Etfw">Tweets by ClatworthyLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
