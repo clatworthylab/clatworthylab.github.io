@@ -12,13 +12,16 @@ menu:
 - {name: 'Publications', folder: 'documentation', file: 'publications.html'}
 - {name: 'Public engagement', folder: 'documentation', file: 'public_engagement.html'}
 - {name: 'Group Members', folder: 'documentation', file: 'members.html'}
-- {name: 'Former Members', folder: 'documentation', file: 'former_members.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'twitter', link: 'https://twitter.com/clatworthylab'}
 - {icon: 'github', link: 'https://github.com/clatworthylab'}
+- {icon: 'university', link: 'http://www.med.cam.ac.uk/clatworthy/'}
+- {icon: 'dna', link: 'https://www.sanger.ac.uk/group/clatworthy-group/'}
+- {icon: 'virus-slash', link: 'https://www.citiid.cam.ac.uk/menna-clatworthy/'}
+- {icon: 'heartbeat', link: 'https://www.cardiovascular.cam.ac.uk/directory/menna-clatworthy'}
 # - {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
 # - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 # - {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
