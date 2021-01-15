@@ -2,8 +2,8 @@ $icon-transition-time: 1.0s;
 $envelope-color: #f39c12;
 $dna-color: #f39c12;
 $database-color: #f39c12;
-$heart-color: #e15759;
-$syringe-color: #e15759;
+$heartbeat-color: #e15759;
+$shield-virus-color: #f6ce3d;
 $university-color: #1b3e74;
 $twitter-color: #00aced;
 $instagram-color: #375989;
@@ -25,6 +25,11 @@ $rss-color: #ff6600;
   &:hover{
     color: $color;
   }
+}
+
+.fa-university {
+  padding: 5px;
+  @include social-media-icon($university-color, $icon-transition-time);
 }
 
 .fa-envelope {
@@ -87,9 +92,9 @@ $rss-color: #ff6600;
   @include social-media-icon($dna-color, $icon-transition-time);
 }
 
-.fa-syringe {
+.fa-shield-virus {
   padding: 5px;
-  @include social-media-icon($syringe-color, $icon-transition-time);
+  @include social-media-icon($shield-virus-color, $icon-transition-time);
 }
 
 .fa-database {
@@ -97,7 +102,7 @@ $rss-color: #ff6600;
   @include social-media-icon($database-color, $icon-transition-time);
 }
 
-.fa-heart {
+.fa-heartbeat {
   padding: 5px;
-  @include social-media-icon($heart-color, $icon-transition-time);
+  @include social-media-icon($heartbeat-color, $icon-transition-time);
 }
