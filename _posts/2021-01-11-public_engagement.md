@@ -6,6 +6,33 @@ categories: documentation
 tags: [documentation,sample]
 image: lmb.jpeg
 ---
+<style>
+p {
+ text-align:center
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /*width: 40%;*/
+}
+
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /*width: 40%;*/
+}
+
+blockquote {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /*width: 40%;*/
+}
+
+</style>
 
 https://www.thenakedscientists.com/articles/interviews/cells-protect-brain
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L6s6hBb10rI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
