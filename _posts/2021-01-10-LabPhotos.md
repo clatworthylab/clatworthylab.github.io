@@ -19,7 +19,7 @@ image: nature-1.jpg
 		display: none;
 	}
 
-	.container img {		
+	.container img {
 		transition: transform 0.25s ease;
 		cursor: zoom-in;
 	}
@@ -34,11 +34,11 @@ image: nature-1.jpg
 	}
 
 	table {
-		border-collapse: collapse; 
+		border-collapse: collapse;
 		width: 100%;
 		border: 0px;
 		margin-right: 300px;
-	}	
+	}
 
 	table td { border: 0px;
 	}
@@ -47,134 +47,39 @@ image: nature-1.jpg
 ## Lab Photos
 
 ### 2018-2020
-<table border="0" cellpadding="0" cellspacing="0"> 
+<table border="0" cellpadding="0" cellspacing="0">
 	<tr>
-		<td>
-			<div class="container">
-				<input type="checkbox" id="zoomCheck">
-				<label for="zoomCheck">
-					<img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/IMG_3555-300x225.jpeg">
-				</label>
-			</div>
-		</td>
-		<td>
-			<div class="container">
-				<input type="checkbox" id="zoomCheck">
-				<label for="zoomCheck">
-					<img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/IMG_3545-300x225.jpg">
-				</label>
-			</div>
-		</td>		
+		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/IMG_3555-300x225.jpeg"></td>
+		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/IMG_3545-300x225.jpg"></td>
 	</tr>
 	<tr>
-		<td>
-			<div class="container">
-				<input type="checkbox" id="zoomCheck">
-				<label for="zoomCheck">
-					<img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/IMG_3552-300x300.jpeg">
-				</label>
-			</div>
-		</td>
-		<td>
-			<div class="container">
-				<input type="checkbox" id="zoomCheck">
-				<label for="zoomCheck">
-					<img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/IMG_3560-300x225.jpeg">
-				</label>
-			</div>
-		</td>
+		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/IMG_3552-300x300.jpeg"></td>
+		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/IMG_3560-300x225.jpeg"></td>
 	</tr>
 	<tr>
-		<td>
-			<div class="container">
-				<input type="checkbox" id="zoomCheck">
-				<label for="zoomCheck">
-					<img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/beer-festival-300x225.jpg">
-				</label>
-			</div>
-		</td>
-		<td>
-			<div class="container">
-				<input type="checkbox" id="zoomCheck">
-				<label for="zoomCheck">
-					<img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/gemma-viva-300x225.jpg">
-				</label>
-			</div>
-		</td>
+		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/beer-festival-300x225.jpg"></td>
+		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/gemma-viva-300x225.jpg"></td>
 	</tr>
 	<tr>
-		<td>
-			<div class="container">
-				<input type="checkbox" id="zoomCheck">
-				<label for="zoomCheck">
-					<img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/riding-viva-300x300.jpg">
-				</label>
-			</div>
-		</td>
-		<td>
-			<div class="container">
-				<input type="checkbox" id="zoomCheck">
-				<label for="zoomCheck">
-					<img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/gem-thesis-226x300.jpg">
-				</label>
-			</div>
-		</td>		
+		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/riding-viva-300x300.jpg"></td>
+		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/gem-thesis-226x300.jpg"></td>
 	</tr>
 </table>
 
 ## Miscellaneous Illustrations and Images
-<table border="0" cellpadding="0" cellspacing="0"> 
+<table border="0" cellpadding="0" cellspacing="0">
 	<tr>
-		<td>
-			<div class="container">
-				<input type="checkbox" id="zoomCheck">
-				<label for="zoomCheck">
-					<img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/dandelion.jpg" width="300">
-				</label>
-			</div>
-		</td>
-		<td>
-			<div class="container">
-				<input type="checkbox" id="zoomCheck">
-				<label for="zoomCheck">
-					<img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/Spleen_NR-1.jpg" width="300">
-				</label>
-			</div>
-		</td>		
+		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/dandelion.jpg" width="300"></td>
+		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/Spleen_NR-1.jpg" width="300"></td>
 	</tr>
 	<tr>
-		<td>
-			<div class="container">
-				<input type="checkbox" id="zoomCheck">
-				<label for="zoomCheck">
-					<img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/Kidney-2.jpg" width="300">
-				</label>
-			</div>
-		</td>
-		<td>
-			<img src="https://clatworthylab.github.io/assets/img/clatworthy_image4_883x431.jpg" width="300">
-		</label>
-	</div>
-</td>
-</tr>
-<tr>
-	<td>
-		<div class="container">
-			<input type="checkbox" id="zoomCheck">
-			<label for="zoomCheck">
-				<img src="https://clatworthylab.github.io/assets/img/clatworthy_uru2_883x431.jpg" width="300">
-			</label>
-		</div>
-	</td>
-	<td>
-		<div class="container">
-			<input type="checkbox" id="zoomCheck">
-			<label for="zoomCheck">
-				<img src="https://clatworthylab.github.io/assets/img/clatworthy_uru1_883x431.jpg" width="300">
-			</label>
-		</div>
-	</td>
-</tr>	
+		<td><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/Kidney-2.jpg" width="300"></td>
+		<td><img src="https://clatworthylab.github.io/assets/img/clatworthy_image4_883x431.jpg" width="300"></td>
+	</tr>
+	<tr>
+		<td><img src="https://clatworthylab.github.io/assets/img/clatworthy_uru2_883x431.jpg" width="300"></td>
+		<td><img src="https://clatworthylab.github.io/assets/img/clatworthy_uru1_883x431.jpg" width="300"></td>
+	</tr>
 </table>
 
 
