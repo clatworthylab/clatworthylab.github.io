@@ -34,7 +34,9 @@ blockquote {
 
 </style>
 
-https://www.thenakedscientists.com/articles/interviews/cells-protect-brain
+## Public engagements
+
+(https://www.thenakedscientists.com/articles/interviews/cells-protect-brain)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L6s6hBb10rI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="843" height="474" src="https://www.youtube.com/embed/hgv56Gguasc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -48,6 +50,4 @@ https://www.thenakedscientists.com/articles/interviews/cells-protect-brain
 <img src="https://www.med.cam.ac.uk/clatworthy/files/2015/04/Slide3.png">
 <img src="https://www.med.cam.ac.uk/clatworthy/files/2015/04/Untitled.jpg">
 
-
-## Twitter
 <a class="twitter-timeline" href="https://twitter.com/ClatworthyLab?ref_src=twsrc%5Etfw">Tweets by ClatworthyLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
