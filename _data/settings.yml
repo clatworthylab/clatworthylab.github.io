@@ -10,8 +10,8 @@ menu:
 - {name: 'Group', folder: 'documentation', file: 'landingpage.html'}
 - {name: 'Research', folder: 'documentation', file: 'research.html'}
 - {name: 'Publications', folder: 'documentation', file: 'publications.html'}
-- {name: 'Public engagement', folder: 'documentation', file: 'public_engagement.html'}
 - {name: 'Group Members', folder: 'documentation', file: 'members.html'}
+- {name: 'Public engagement', folder: 'documentation', file: 'public_engagement.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
@@ -20,7 +20,8 @@ social:
 - {icon: 'github', link: 'https://github.com/clatworthylab'}
 - {icon: 'university', link: 'http://www.med.cam.ac.uk/clatworthy/'}
 - {icon: 'dna', link: 'https://www.sanger.ac.uk/group/clatworthy-group/'}
-- {icon: 'virus-slash', link: 'https://www.citiid.cam.ac.uk/menna-clatworthy/'}
+- {icon: 'viruses', link: 'https://www.citiid.cam.ac.uk/menna-clatworthy/'}
+- {icon: 'database', link: 'https://www.kidneycellatlas.org/'}
 - {icon: 'heartbeat', link: 'https://www.cardiovascular.cam.ac.uk/directory/menna-clatworthy'}
 # - {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
 # - {icon: 'instagram', link: 'https://instagram.com/paululele'}
