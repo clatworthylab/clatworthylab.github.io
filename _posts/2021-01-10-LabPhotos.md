@@ -151,29 +151,30 @@ image: nature-1.jpg
 				</label>
 			</div>
 		</td>
-		<td><img src="https://clatworthylab.github.io/assets/img/clatworthy_image4_883x431.jpg" width="300">
-				</label>
-			</div>
-		</td>
-	</tr>
-	<tr>
 		<td>
-			<div class="container">
-				<input type="checkbox" id="zoomCheck">
-				<label for="zoomCheck">
-					<img src="https://clatworthylab.github.io/assets/img/clatworthy_uru2_883x431.jpg" width="300">
-				</label>
-			</div>
-		</td>
-		<td>
-			<div class="container">
-				<input type="checkbox" id="zoomCheck">
-				<label for="zoomCheck">
-					<img src="https://clatworthylab.github.io/assets/img/clatworthy_uru1_883x431.jpg" width="300">
-				</label>
-			</div>
-		</td>
-	</tr>	
+			<img src="https://clatworthylab.github.io/assets/img/clatworthy_image4_883x431.jpg" width="300">
+		</label>
+	</div>
+</td>
+</tr>
+<tr>
+	<td>
+		<div class="container">
+			<input type="checkbox" id="zoomCheck">
+			<label for="zoomCheck">
+				<img src="https://clatworthylab.github.io/assets/img/clatworthy_uru2_883x431.jpg" width="300">
+			</label>
+		</div>
+	</td>
+	<td>
+		<div class="container">
+			<input type="checkbox" id="zoomCheck">
+			<label for="zoomCheck">
+				<img src="https://clatworthylab.github.io/assets/img/clatworthy_uru1_883x431.jpg" width="300">
+			</label>
+		</div>
+	</td>
+</tr>	
 </table>
 
 
