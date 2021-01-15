@@ -8,7 +8,7 @@ image: clatworthy_image4_883x431.jpg
 ---
 
 ## Research
-<img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/Picture-1.png" alt = 'Tissue Immunity Laboratory'>    <img src="http://www.med.cam.ac.uk/clatworthy/files/2013/08/CLATWORTHY-e1423145667300-256x300.jpg" alt = 'Professor Menna Clatworthy'>
+<img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/Picture-1.png" height = "150" alt = 'Tissue Immunity Laboratory'>    <img src="http://www.med.cam.ac.uk/clatworthy/files/2013/08/CLATWORTHY-e1423145667300-256x300.jpg" height = "150" alt = 'Professor Menna Clatworthy'>
 
 The Clatworthy lab is focused on human tissue immunity and houses the **Cambridge Tissue Immunity Laboratory (C-TIL)**.
 
