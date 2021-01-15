@@ -4,7 +4,7 @@ title: "Lab Photos"
 author: "ZK TUONG"
 categories: documentation
 tags: [documentation,sample]
-image: Spleen_NR-1.jpg
+image: nature-1.jpg
 ---
 <style>
 	input {
