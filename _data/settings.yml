@@ -7,12 +7,12 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Group', folder: '_post', file: '2021-01-15-landingpage.md'}
-- {name: 'Research', folder: 'pages', file: 'facts.html'}
-- {name: 'Publications', folder: 'pages', file: 'resources.html'}
-- {name: 'Public engagement', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Group Members', folder: 'pages', file: 'documentation.html'}
-- {name: 'Former Members', folder: 'pages', file: 'about.html'}
+- {name: 'Group', folder: 'documentation', file: 'landingpage.html'}
+- {name: 'Research', folder: 'documentation', file: 'research.html'}
+- {name: 'Publications', folder: 'documentation', file: 'publications.html'}
+- {name: 'Public engagement', folder: 'documentation', file: 'public_engagement.html'}
+- {name: 'Group Members', folder: 'documentation', file: 'members.html'}
+- {name: 'Former Members', folder: 'documentation', file: 'former_members.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
