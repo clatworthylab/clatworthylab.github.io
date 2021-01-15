@@ -21,7 +21,7 @@ image: lmb.jpeg
 
   table {
     border-collapse: collapse; 
-    width: 150%;
+    width: 100%;
     border: 0px;
     margin-right: 300px;
   } 
