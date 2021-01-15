@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Contact
-image: artic-5.jpg
+image: arctic-5.jpg
 ---
 
 
