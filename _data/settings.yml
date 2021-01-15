@@ -20,9 +20,10 @@ social:
 - {icon: 'github', link: 'https://github.com/clatworthylab'}
 - {icon: 'university', link: 'http://www.med.cam.ac.uk/clatworthy/'}
 - {icon: 'dna', link: 'https://www.sanger.ac.uk/group/clatworthy-group/'}
-- {icon: 'virus', link: 'https://www.citiid.cam.ac.uk/menna-clatworthy/'}
-- {icon: 'database', link: 'https://www.kidneycellatlas.org/'}
 - {icon: 'heartbeat', link: 'https://www.cardiovascular.cam.ac.uk/directory/menna-clatworthy'}
+- {icon: 'syringe', link: 'https://www.citiid.cam.ac.uk/menna-clatworthy/'}
+- {icon: 'database', link: 'https://www.kidneycellatlas.org/'}
+
 # - {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
 # - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 # - {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
