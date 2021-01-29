@@ -11,7 +11,7 @@ image: clatworthy_uru1_883x431.jpg
 
 Fitzpatrick Z, Frazer G, Ferro A, Clare S, Bouladoux N, Ferdinand JR, Tuong ZW, Negro-Demontel ML, Suchanek O, Tajsic T, Harcourt K, Scott K, Bashford-Rogers R, Helmy A, Reich DS, Belkaid Y, Lawley T, McGavern DB\*, ***<u>Clatworthy MR</u>\****. Gut-educated IgA plasma cells defend meningeal venous sinuses. ***Nature***. 2020; Nov; 587(7834):472-476.
 
-Burrows N\*, Bashford-Rogers RJM, Bhute VJ, Peñalver A, Ferdinand JR, Stewart BS, Smith JEG, Deobagkar-Lele M, Giudice G, Connor TM, Inaba A, Bergamaschi L, Smith S, Tran MGB, Petsalaki E, Lyons PA, Espeli M, Huntly BJP, Smith KGC, Cornall RJ, ***<u>Clatworthy MR</u>***, Maxwell PH. Dynamic regulation of HIF-1 activity is essential for normal B cell development. ***Nat Immunol***. 2020; 21:1408–1420.*
+Burrows N\*, Bashford-Rogers RJM, Bhute VJ, Peñalver A, Ferdinand JR, Stewart BJ, Smith JEG, Deobagkar-Lele M, Giudice G, Connor TM, Inaba A, Bergamaschi L, Smith S, Tran MGB, Petsalaki E, Lyons PA, Espeli M, Huntly BJP, Smith KGC, Cornall RJ, ***<u>Clatworthy MR</u>***, Maxwell PH. Dynamic regulation of HIF-1 activity is essential for normal B cell development. ***Nat Immunol***. 2020; 21:1408–1420.*
 
 Jing C, Castro-Dopico T, Richoz N, Tuong ZK, Ferdinand JR, Lok LSC, Loudon KW, Banham GD, Mathews RJ, Cader Z, Fitzpatrick S, Bashant KR, Kaplan MJ, Kaser A, Johnson RS, Murphy MP, Siegel RM, ***<u>Clatworthy MR</u>***. Macrophage Metabolic Reprogramming Presents a Therapeutic Target in Lupus Nephritis. ***Proc Natl Acad Sci USA***. 2020 Jun 15; 202000943.
 
@@ -25,7 +25,7 @@ Park JE, Botting RA, Domínguez Conde C, Popescu DM, Lavaert M, Kunz DJ, Goh I, 
 
 James KR, Gomes T, Elmentaite R, Kumar N, Gulliver EL, King HW, Stares MD, Bareham BR, Ferdinand JR, Petrova VN, Polański K, Forster SC, Jarvis LB, Suchanek O, Howlett S, James LK, Jones JL, Meyer KB, ***<u>Clatworthy MR</u>***, Saeb-Parsy K, Lawley TD, Teichmann SA. Distinct microbial and immune niches of the human colon. ***Nat Immunol***. 2020; 21(3):343-353. PMID:32066951.
 
-Stewart BS, Ferdinand JR, Young MD, Mitchell TJ, Loudon KW, Riding AM, Richoz N, Frazer GL, Staniforth JU, Vieira Braga FA, Botting R, Popescu DM, Vento-Tormo R, Stephenson E, Cagan A, Farndon SJ, Polanski K, Efremova M, Green K, Velasco-Herrera M, Guzzo C, CollorD G, Mamanova L, Aho T, Armitage JN, Riddick AC, Mushtaq I, Farrell S, Rampling D, Nicholson J, Filby A, Burge J, Lisgo S, Lindsay S, Bajenoff M, Warren AY, Stewart GD, Sebire N, Coleman N, Haniffa M\*, Teichmann SA\*, Behjati S\*, ***<u>Clatworthy MR</u>\****. Spatio-temporal immune zonation of the human kidney.  ***Science***. 2019;365(6460):1461-1466.
+Stewart B, Ferdinand JR, Young MD, Mitchell TJ, Loudon KW, Riding AM, Richoz N, Frazer GL, Staniforth JU, Vieira Braga FA, Botting R, Popescu DM, Vento-Tormo R, Stephenson E, Cagan A, Farndon SJ, Polanski K, Efremova M, Green K, Velasco-Herrera M, Guzzo C, CollorD G, Mamanova L, Aho T, Armitage JN, Riddick AC, Mushtaq I, Farrell S, Rampling D, Nicholson J, Filby A, Burge J, Lisgo S, Lindsay S, Bajenoff M, Warren AY, Stewart GD, Sebire N, Coleman N, Haniffa M\*, Teichmann SA\*, Behjati S\*, ***<u>Clatworthy MR</u>\****. Spatio-temporal immune zonation of the human kidney.  ***Science***. 2019;365(6460):1461-1466.
 
 Stewart BJ, Ferdinand JR, ***<u>Clatworthy MR</u>***. Using single-cell technologies to map the human immune system – implications for nephrology. ***Nat Rev Nephrol***. 2019 Dec 12. doi: 10.1038/s41581-019-0227-3.
 
