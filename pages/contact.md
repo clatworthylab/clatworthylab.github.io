@@ -9,6 +9,6 @@ For general enquires, please refer to Professor Clatworthy's [University of Camb
 
 For bioinformatics enquires, please refer to the Clatworthy Lab's [github](https://github.com/clatworthylab).
 
-This webpage is modified from the [Millennial theme](https://clatworthylab.github.io/pages/wilcome-to-millennial.html) and is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, please [tweet](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele) or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+This webpage is modified from the [Millennial theme](https://lenpaul.github.io/Millennial/documentation/welcome-to-millennial.html) and is completely free and open source software. It is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems with this website, please file an [issue](https://github.com/clatworthylab/clatworthylab.github.io/issues/new) at the github repository.
 
 
