@@ -4,6 +4,7 @@ title: "Professor Clatworthy's Group"
 author: "ZK TUONG"
 categories: documentation
 tags: [documentation,sample]
+urlcolor: blue
 image: clatworthy_image4_883x431.jpg
 ---
 
