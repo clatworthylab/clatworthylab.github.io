@@ -103,3 +103,17 @@
     width: 95vw;
   }
 }
+
+/* 
+  unvisited link
+*/
+a:link {
+  color: blue;
+}
+
+/*
+  visited link
+*/
+a:visited {
+  color: purple;
+}
