@@ -50,6 +50,10 @@ image: nature-1.jpg
 		<td><a href="http://www.med.cam.ac.uk/clatworthy/files/2021/01/riding-viva-300x300.jpg" class="MagicZoom" data-gallery="gallery" data-options="hint:false; zoomMode:off;"><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/riding-viva-300x300.jpg"></a></td>
 		<td><a href="http://www.med.cam.ac.uk/clatworthy/files/2021/01/gem-thesis-226x300.jpg" class="MagicZoom" data-gallery="gallery" data-options="hint:false; zoomMode:off;"><img src="http://www.med.cam.ac.uk/clatworthy/files/2021/01/gem-thesis-226x300.jpg"></a></td>
 	</tr>
+	<tr>
+		<td><a href="https://clatworthylab.github.io/assets/img/pub1.jpg" class="MagicZoom" data-gallery="gallery" data-options="hint:false; zoomMode:off;"><img src="https://clatworthylab.github.io/assets/img/pub1.jpg"></a></td>
+		<td><a href="https://clatworthylab.github.io/assets/img/pub2.jpg" class="MagicZoom" data-gallery="gallery" data-options="hint:false; zoomMode:off;"><img src="https://clatworthylab.github.io/assets/img/pub2.jpg"></a></td>
+	</tr>
 </table>
 
 ## Miscellaneous Illustrations and Images
